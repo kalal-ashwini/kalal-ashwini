@@ -7,10 +7,9 @@ Hi, I’m @kalal-ashwini
 ⚡ Fun fact: I enjoy finding complex bugs and transforming repetitive testing tasks into efficient and reusable automation solutions. I believe a strong automation framework is not just about execution — it is about maintainability, scalability, and reliability.
 
 🛠️ Frameworks & Tools I've Worked With:
-
 Selenium: For web application testing and automation.
 Cypress: For modern front-end testing, providing fast and reliable results.
-Postman – API testing, request validation, and automation
-JMeter – Performance and load testing to analyze application behavior under varying user loads
+RestAssured: For API testing, ensuring robust backend services.
+Cucumber: For behavior-driven development (BDD) with Selenium and Cypress, enabling clearer collaboration with stakeholders.
 
 Feel free to explore my repositories for automation frameworks and examples. I’m always open to discussions about QA, automation, and improving testing processes!
